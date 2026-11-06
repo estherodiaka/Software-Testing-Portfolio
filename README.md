@@ -54,3 +54,5 @@ To contribute to software quality assurance through effective testing practices,
 LinkedIn: *www.linkedin.com/in/esther-odiaka-o-phri-mba-933a97183*
 
 GitHub: *https://github.com/estherodiaka*
+
+Portfolio: https://esther-odiaka-qa-portfolio.netlify.app/
