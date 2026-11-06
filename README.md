@@ -35,7 +35,7 @@ Testing Focus: API Testing, Performance Testing, Load Testing and Stress Testing
 
 Tools: Postman, Apache JMeter, BrowerStack
 
-View: [Parabank Banking Application](https://github.com/estherodiaka/PARABANK-APPLICATION-TESTING)
+View: [Parabank App](https://github.com/estherodiaka/PARABANK-APPLICATION-TESTING-)
 
 4. *Obianuju Healthcare Management System*
 
