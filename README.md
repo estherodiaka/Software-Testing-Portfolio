@@ -19,7 +19,7 @@ Testing Focus: STLC, Test Planning, Test Scope, Test Design, Test Cases, Test Ex
 
 Tools: Jira, TestRail
 
-View: https://github.com/estherodiaka/OBY-HRIS-PROJECT
+View: [OBY HRIS Platform](https://github.com/estherodiaka/OBY-HRIS-PROJECT)
 
 2. *Abundant ShopSphere – E-Commerce Application*
 
@@ -27,7 +27,7 @@ Testing Focus: Security Testing, UI Automation, Exploratory Testing and Vulnerab
 
 Tools: OWASP ZAP, WebdriverIO
 
-View: https://github.com/estherodiaka/OBIANUJU-HEALTHCARE-SYSTEM
+View: [Abundant ShopSphere](https://github.com/estherodiaka/OBIANUJU-HEALTHCARE-SYSTEM)
 
 3. *Parabank Banking Application*
 
@@ -35,7 +35,7 @@ Testing Focus: API Testing, Performance Testing, Load Testing and Stress Testing
 
 Tools: Postman, Apache JMeter, BrowerStack
 
-View: https://github.com/estherodiaka/PARABANK-APPLICATION-TESTING-
+View: [Parabank Banking Application](https://github.com/estherodiaka/PARABANK-APPLICATION-TESTING)
 
 4. *Obianuju Healthcare Management System*
 
@@ -43,7 +43,7 @@ Testing Focus: Web and Mobile Application Testing, Test Automation and End-to-En
 
 Tools: Playwright
 
-View: https://github.com/estherodiaka/ABUNDANT-SHOPSHERE 
+View: [Obianuju Healthcare](https://github.com/estherodiaka/ABUNDANT-SHOPSHERE)
 
 🎯 *Career Objective*
 
